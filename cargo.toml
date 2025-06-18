@@ -1,0 +1,13 @@
+[package]
+name = "FLEXENTREGAS" # Escolha um nome para seu projeto (use kebab-case)
+version = "0.1.0"           # Versão inicial (pode ser alterada depois)
+edition = "2021"            # A edição do Rust que você está usando (2018, 2021, etc.)
+
+# Veja mais sobre edições aqui: https://doc.rust-lang.org/edition-guide/
+# Se tiver dúvidas, 2021 é a mais recente e recomendada.
+
+[dependencies]
+# Adicione suas dependências aqui, se houverem.
+# Exemplo:
+# serde = { version = "1.0", features = ["derive"] }
+# reqwest = { version = "0.11", features = ["json"] }
